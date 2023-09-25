@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bowjacon/BIM_Demo/tree/main/icon/logo.svg" width="138" style="border-radius: 50%;" />
+  <img src="https://github.com/bowjacon/BIM_Demo/blob/main/icon/logo.svg" width="138" style="border-radius: 50%;" />
 </p>
 <h1 align="center">(Building Information Modeling)基于Stm32开发的楼宇智能管理系统</h1>
 
