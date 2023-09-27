@@ -27,5 +27,5 @@
 
 ## :arrow_down: 下载链接
 
-<a href ="https://github.com/bowjacon/BIM_Demo/releases/tag/V1.1"><img src="https://bot.zzuli.life/%E4%B8%8B%E8%BD%BD.png" width="60"></a>
+<a href ="https://github.com/bowjacon/BIM_Demo/releases"><img src="https://bot.zzuli.life/%E4%B8%8B%E8%BD%BD.png" width="60"></a>
 
