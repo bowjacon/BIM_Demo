@@ -25,3 +25,7 @@
 
 [![asf-estd-1999-logo](https://jamth.oss-cn-hangzhou.aliyuncs.com/asf-estd-1999-logo.jpg)](https://www.apache.org/licenses/LICENSE-2.0)
 
+## :arrow_down: 下载链接
+
+<a href ="https://github.com/bowjacon/BIM_Demo/releases/tag/V1.1"><img src="https://bot.zzuli.life/%E4%B8%8B%E8%BD%BD.png" width="60"></a>
+
