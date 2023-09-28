@@ -27,5 +27,12 @@
 
 ## :arrow_down: 下载链接
 
-<a href ="https://github.com/bowjacon/BIM_Demo/releases"><img src="https://bot.zzuli.life/%E4%B8%8B%E8%BD%BD.png" width="60"></a>
+| 测试版本                                                     |
+| ------------------------------------------------------------ |
+| <a href ="https://github.com/bowjacon/BIM_Demo/releases"><img src="https://bot.zzuli.life/%E4%B8%8B%E8%BD%BD.png" width="60"></a> |
 
+## 贡献者名单
+
+<a href="https://github.com/bowjacon/BIME_demo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=bowjacon/BIM_demo" />
+</a>
